@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Marcelo Coutinho da Conceição Junior
 
-🎯 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
-💻 Focado em Quality Assurance (QA)
-🚀 Em busca de oportunidade como **QA Estagiário**
+🎯 Estudante de Análise e Desenvolvimento de Sistemas (ADS) <br>
+💻 Focado em Quality Assurance (QA) <br>
+🚀 Em busca de oportunidade como **QA Estagiário** <br>
 
 ---
 
