@@ -54,7 +54,7 @@ Busco minha primeira oportunidade como **QA Estagiário**, onde eu possa:
 
 ## 📫 Contato
 
-* 💼 LinkedIn: *(coloque seu link aqui)*
+* 💼 LinkedIn: https://www.linkedin.com/in/marcelo-coutinho-8a0213408/?skipRedirect=true
 * 📧 Email: marcelo7_qa@outlook.com
 
 ---
